@@ -13,7 +13,7 @@ const linkGroups = [
         src: 'https://abs.twimg.com/favicons/twitter.2.ico',
       },
       {
-        href: 'https://www.reddit.com/user/MetalTxus',
+        href: 'https://reddit.com/user/MetalTxus',
         label: 'Reddit',
         src: 'https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png',
       },
@@ -53,14 +53,14 @@ const linkGroups = [
         src: 'https://images.gamebanana.com/static/img/favicon/32x32.png',
       },
       {
-        href: 'https://www.nexusmods.com/users/18894694',
+        href: 'https://nexusmods.com/users/18894694',
         label: 'NexusMods',
         src: 'https://images.nexusmods.com/favicons/ReskinOrange/favicon-32x32.png',
       },
       {
         href: 'https://forums.ppsspp.org/member.php?action=profile&uid=118084',
         label: 'PPSSPP Forums',
-        src: 'https://www.ppsspp.org/img/logo.svg',
+        src: 'https://ppsspp.org/img/logo.svg',
       },
     ],
   },
@@ -105,7 +105,7 @@ const linkGroups = [
       {
         href: 'https://planetminecraft.com/member/metaltxus/',
         label: 'PlanetMinecraft',
-        src: 'https://www.planetminecraft.com/images/layout/favicon-32.png',
+        src: 'https://planetminecraft.com/images/layout/favicon-32.png',
       },
     ],
   },
@@ -113,9 +113,9 @@ const linkGroups = [
     label: 'Donations',
     links: [
       {
-        href: 'https://www.paypal.com/paypalme/jesuscc1993',
+        href: 'https://paypal.com/paypalme/jesuscc1993',
         label: 'PayPal',
-        src: 'https://www.paypalobjects.com/webstatic/icon/pp32.png',
+        src: 'https://paypalobjects.com/webstatic/icon/pp32.png',
       },
     ],
   },
