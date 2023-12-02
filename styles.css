@@ -14,7 +14,7 @@ img {
   margin-right: 6px;
   width: auto;
 }
-img.pixelated {
+.pixelated img {
   image-rendering: pixelated;
 }
 
