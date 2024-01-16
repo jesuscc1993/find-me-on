@@ -68,11 +68,6 @@ const linkGroups = [
     label: 'Other',
     links: [
       {
-        href: 'https://3dwarehouse.sketchup.com/by/MetalTxus',
-        label: '3D Warehouse',
-        src: 'https://3dwarehouse.sketchup.com/favicon.ico',
-      },
-      {
         href: 'https://anilist.co/user/MetalTxus/',
         label: 'AniList',
         src: 'https://anilist.co/img/icons/favicon-32x32.png',
