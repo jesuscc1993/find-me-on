@@ -5,7 +5,7 @@ const linkGroups = [
       {
         href: 'https://discordapp.com/users/268103406793523200',
         label: 'Discord',
-        src: 'https://i.imgur.com/EPn8FXT.png',
+        src: 'https://i.imgur.com/thhi9uB.png',
       },
       {
         href: 'https://twitter.com/metaltxus',
@@ -60,7 +60,7 @@ const linkGroups = [
       {
         href: 'https://forums.ppsspp.org/member.php?action=profile&uid=118084',
         label: 'PPSSPP Forums',
-        src: 'https://ppsspp.org/img/logo.svg',
+        src: 'https://www.ppsspp.org/static/img/platform/ppsspp-icon.png',
       },
     ],
   },
