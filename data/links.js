@@ -6,6 +6,7 @@ const linkGroups = [
         href: 'https://discordapp.com/users/268103406793523200',
         label: 'Discord',
         src: 'https://i.imgur.com/thhi9uB.png',
+        class: 'round',
       },
       {
         href: 'https://twitter.com/metaltxus',
