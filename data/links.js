@@ -16,6 +16,7 @@ const linkGroups = [
         href: 'https://reddit.com/user/MetalTxus',
         label: 'Reddit',
         src: 'https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png',
+        class: 'round',
       },
       {
         href: 'https://steamcommunity.com/id/MetalTxus',
@@ -71,11 +72,18 @@ const linkGroups = [
         href: 'https://anilist.co/user/MetalTxus/',
         label: 'AniList',
         src: 'https://anilist.co/img/icons/favicon-32x32.png',
+        class: 'round',
       },
       {
         href: 'https://deviantart.com/txusmetal4ever',
         label: 'DeviantArt',
         src: 'https://deviantart.com/favicon.ico',
+      },
+      {
+        href: 'https://www.last.fm/user/jesuscc1993',
+        label: 'last.fm',
+        src: 'https://www.last.fm/static/images/favicon.ico',
+        class: 'round',
       },
       {
         href: 'https://open.spotify.com/user/metaltxus',

@@ -10,7 +10,7 @@ const initialize = () => {
     group.links.forEach((link) => {
       groupLinksEl.append(`
         <li>
-          <a href="${link.href}" class="${link.class}">
+          <a href="${link.href}" class="${link.class || ''}">
             <img src="${link.src}"/>${link.label}
           </a>
         </li>

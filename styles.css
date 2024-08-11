@@ -17,6 +17,9 @@ img {
 .pixelated img {
   image-rendering: pixelated;
 }
+.round img {
+  border-radius: 50%;
+}
 
 ul {
   list-style: none;
