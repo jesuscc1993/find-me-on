@@ -9,6 +9,11 @@ const linkGroups = [
         class: 'round',
       },
       {
+        href: 'https://bsky.app/profile/metaltxus.bsky.social',
+        label: 'Bluesky',
+        src: 'https://bsky.app/static/favicon-32x32.png',
+      },
+      {
         href: 'https://twitter.com/metaltxus',
         label: 'Twitter',
         src: 'https://abs.twimg.com/favicons/twitter.2.ico',
